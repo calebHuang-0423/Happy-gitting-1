@@ -1,8 +1,13 @@
 # Happy-gitting
 
+Hi! Happy to try happy git!
+
 Hi there!  Happy to git with you!
 
 Just try out the git thing and enjoy gitting!
+
+Here is an image learning
+![A nn](cute-dolphin.jpeg)
 
 Here is an example how to add images
 
@@ -21,7 +26,7 @@ yet...  But we'll get there!
 ### Different headings:
 
 # This is an H1
-## This is an H2
+## This is an H2==
 ###### This is an H6
 
 
