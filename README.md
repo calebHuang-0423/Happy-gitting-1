@@ -7,7 +7,7 @@ Hi there!  Happy to git with you!
 Just try out the git thing and enjoy gitting!
 
 Here is an image learning
-![A nn](cute-dolphin.jpeg)
+![A nn](new.jpeg)
 
 Here is an example how to add images
 
